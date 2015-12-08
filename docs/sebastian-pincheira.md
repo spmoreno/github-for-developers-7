@@ -1,0 +1,4 @@
+ - [ ] Name: Seba
+ - [ ] Where you are from: New Zealand
+ - [ ] A favorite food: Spaghetti
+ - [ ] A hobby: Bicycle
